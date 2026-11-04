@@ -11,14 +11,11 @@ const pais= "España";
 
 const nombre2 = "Ana";
 const edad2 = "30";
-const direccion ;
-let ;
-const ;
+const dire;
 
 console.log(typeof nombre);
 console.log(typeof edad);
-console.log(typeof);
-console.log(typeof direccion);
+console.log(typeof dire);
 
 
 const nombreUsuario ="maria";
@@ -101,4 +98,43 @@ const tieneentrada = true;
 
 if(edad3 >= 18 && tieneentrada){
     console.log("puedes ingresar al evento")
+}else {
+    console.log("no puedes entrar");
 }
+
+//tabla de multiplicar del 5
+for (let i = 1; i <= 10; i++) {
+    console.log(`5 x ${i} = ${5 * i}`);
+}
+
+//Suma de los numeros del 1 al 100
+let suma = 0;
+for (let i = 1; i <= 100; i++){
+    suma += i;
+}
+console.log(suma)
+
+//Ahorro mensual
+let Ahorromensual = 100;
+let Ahorrado = 0;
+
+for (let i = 1; i <= 12 , i++);{
+    ahorrado+=Ahorromensual;
+    console.log(Mes$(1)= Ahorrado =$(ahorrado));
+}
+
+//funciones
+
+let VariableGlobal = "Soy una variable Global";
+
+function MostrarVariabaleGlobal(){
+    console.log(VariableGlobal); //accede a la variable global
+}
+MostrarVariabaleGlobal(); //Llamada a la funcion
+
+function MostrarVariableLocal(){
+    let variableLocal ="Soy una variable local dentro de la función";
+    console.log(VariableLocal);
+
+}
+

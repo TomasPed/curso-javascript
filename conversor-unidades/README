@@ -1,2 +1,12 @@
 //Para comenzar se creo el menu con las opciones de conversion (con console.log)
-//Se crean las funciones de cada operación para que solo sea insertar las unidades las cuales se quieren convertir y no escribir una linea para cada número
+
+//Se crean las funciones de cada operación para que solo sea insertar las unidades las cuales se quieren convertir y no escribir una linea para cada número.
+
+// La creacion del switch fue para poder escojer una opcion entre las diferente conversiones de  unidades
+
+//La siguiente parte fue para que el usuario tenga que seleccionar alguna de las opciones si o si
+
+//AL seleciconar una opcion se entra a su debido sector en donde se abre la posibilidad de ingresar los valores los cuales se quieran convertir 
+//(El break es para que SOlO se ejecute la opcion tomada)
+
+//Para el final el codigo valide que los valores se han validos 

@@ -1,0 +1,2 @@
+//Para comenzar se creo el menu con las opciones de conversion (con console.log)
+//Se crean las funciones de cada operación para que solo sea insertar las unidades las cuales se quieren convertir y no escribir una linea para cada número

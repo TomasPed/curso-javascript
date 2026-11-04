@@ -121,4 +121,4 @@ console.log("2.5 km =", kilometrosAMetros(2.5), "m");
 
 // Prueba 6: Temperatura negativa
 console.log("-10 °C =", celsiusAFahrenheit(-10), "°F");
-// Esperado: 14 °F
+// Esperado: 14 °
